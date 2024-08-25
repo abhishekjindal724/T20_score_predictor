@@ -1,2 +1,3 @@
 # T20_score_predictor
-Developed a machine learning model to predict T20 cricket match scores, analyzing historical data, player performance, and conditions. Enhanced strategic decision-making for teams, analysts, and broadcasters with real-time score predictions.
+This project is centered around developing a robust machine learning model to predict the scores of T20 cricket matches. Given the fast-paced and dynamic nature of T20 cricket, accurately predicting the scores is a complex task that involves analyzing a variety of factors, including player performance, pitch conditions, weather, and historical match data.
+The primary objective of this project is to build a predictive model that can estimate the final scores of a team batting first in a T20 match. By leveraging historical data and advanced machine learning techniques, the model aims to provide accurate predictions that can assist in strategic decision-making for teams, coaches, and analysts.
